@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { MapPin, Battery, Clock, AlertCircle, ThumbsUp, MessageCircle, Send } from 'lucide-react';
+import { MapPin, Battery, Clock, AlertCircle, ThumbsUp, Send } from 'lucide-react';
 import { Card, CardContent } from '../components/ui/card';
 import { Alert, AlertTitle, AlertDescription } from '../components/ui/alert';
 import { db } from '../firebaseConfig';
